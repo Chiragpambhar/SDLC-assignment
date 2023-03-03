@@ -1,0 +1,83 @@
+(1) What is software? What is software engineering?
+---Software is a set of instractions,data or programs used to operate computers and executs specific tasks.
+---Software engineering is defined as a process of analyzing user requirements and then designing,bulding and testing software application 
+    which will satisfy those requirements. 
+
+
+(2) Explain types of software.
+---Three types of software
+    1- System software - System software is a software designed to provide a platform to other software.
+    2- Application software - The software that helps you to do a specific type of works is called application software.
+    3 - Utility software - Utility software helps to manage,maintain and control computer resources.
+
+
+(3) What is SDLC? Explain each phase of SDLC.
+--- SDLC full form is software development lifecycle. SDLC is the cost effective and time efficient process that development teams use to
+     design and build high quality software.
+--- The phases of SDLC.
+    1 - Software Requirment
+    2 - Software Analysis
+    3 - Software Designing
+    4 - Software Development
+    5 - Software Testing
+    6 - Software Deployment
+    7 - Software Maintence
+
+
+(4) What is DFD? Create a DFD diagram on flipkart.
+--- DFD full form is data flow diagram. DFD maps out the flow of information for any process or system.
+     Step 1 : Open Flipkart
+     Step 2 : Login To Flipkart
+     Step 3 : Manage Category
+     Step 4 : Buy Product
+     Step 5 : Make Payment
+     Step 6 : order Delivery
+     Step 7: Use Product
+
+		
+(5) What is flow chart? Create a flowchart to make addition of two numbers.
+--- it is a pictorial respresentation of algorithms.
+     Step 1 : Start
+     Step 2 : Input a Number A=10
+     Step 3 : Input a Number B=20
+     Step 4 : Summation = A + B
+     Step 5 : Summation is 30
+     Step 6 : End
+
+
+(6) What is use case diagram? create a use case on bill payment on paytm.
+--- A use case diagram is a way to summarize details of a system and the users within that system.
+     Step 1 : Open Paytm
+     Step 2 : Login To Paytm
+     Step 3 : Open Your Bill
+     Step 4 : Proceed To Pay
+     Step 5 : Make Payment
+     Step 6 : Confirm 
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
